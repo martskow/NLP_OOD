@@ -1,0 +1,36 @@
+fold,scenario,rank_in_fold,text,score,trigger_1_token,trigger_1_weight,trigger_2_token,trigger_2_weight,trigger_3_token,trigger_3_weight
+1,OOD_Class_1,1,Add impossible is nothing to SPA Treatment,1.1664109,treatment,0.21500937640666962,to,0.142428919672966,spa,0.07930254936218262
+1,OOD_Class_1,2,add darkest angels to my SOS 48 2016,0.9130589,so,0.24517211318016052,2016,0.09339149296283722,angels,0.046943388879299164
+1,OOD_Class_1,3,add naomi schemer to my Hanging Out and Relaxing,0.89722615,naomi,0.2023313045501709,r,0.0861891359090805,relaxing,0.08400855213403702
+1,OOD_Class_1,4,"Add Perfect Sense, Part I to my women of classical list",0.87627965,list,0.19103893637657166,part,0.10058064758777618,of,0.09532301872968674
+1,OOD_Class_1,5,Add a track to my list Made in Puerto Rico,0.8554453,list,0.30561256408691406,my,0.06183960288763046,add,0.03493081033229828
+2,OOD_Class_2,1,Please book a joint type restaurant room with spa facility to accommodate 8 members,1.2177225,restaurant,0.30727991461753845,members,0.2923043370246887,to,0.24020573496818542
+2,OOD_Class_2,2,"Book a table at a bar in Moody for deloris, ester and petra alvarez .",1.1873372,bar,0.3487972617149353,alvarez,0.239436075091362,a,0.1823960393667221
+2,OOD_Class_2,3,Book a reservation for 4 people at a restaurant within the same area as my step daughter's position,1.1494334,at,0.23227116465568542,book,0.20334520936012268,as,0.1862281858921051
+2,OOD_Class_2,4,book a table in Hallwood for one for supper,1.1459274,in,0.3552272319793701,wood,0.24198943376541138,table,0.23850354552268982
+2,OOD_Class_2,5,Book a bar that serves ribs for 5 people.,1.1366224,serves,0.37908923625946045,ribs,0.21480318903923035,a,0.1689050942659378
+3,OOD_Class_3,1,Is it chillier in Mint Hill FM,1.0332,chill,0.12860247492790222,is,0.12553289532661438,hill,0.10804606974124908
+3,OOD_Class_3,2,Is it going to get hotter in my current position,1.0099696,get,0.048688001930713654,,0.0,,0.0
+3,OOD_Class_3,3,is hail in the weather forecast for Monterey Bay National Marine Sanctuary,0.9336496,forecast,0.15885722637176514,monterey,0.03157089650630951,the,0.0179262924939394
+3,OOD_Class_3,4,"What's the wather in Coleville , Kenya",0.89132434,what,0.5170145630836487,her,0.0711296871304512,wat,0.029138468205928802
+3,OOD_Class_3,5,I need the weather in ND in three hundred fifty one days,0.88937753,weather,0.5243518352508545,days,0.0761866644024849,d,0.033519402146339417
+4,OOD_Class_4,1,Please start playing some thirties theme music.,0.96347475,theme,0.16473081707954407,music,0.1613822728395462,start,0.09707091003656387
+4,OOD_Class_4,2,I want to hear Choice on Last Fm from the twenties .,0.9193456,on,0.25540322065353394,.,0.09516102075576782,to,0.060880083590745926
+4,OOD_Class_4,3,give me some Hank Shermann from 1975 on Lastfm,0.87367105,me,0.24551767110824585,last,0.07779489457607269,sherman,0.02516265958547592
+4,OOD_Class_4,4,I need some ambient music.,0.87025046,need,0.22223567962646484,i,0.056590668857097626,some,0.025354547426104546
+4,OOD_Class_4,5,Play a 2011 ballad by Evil Jared Hasselhoff on Lastfm .,0.8700115,play,0.2732992470264435,on,0.229131281375885,fm,0.05290897190570831
+5,OOD_Class_5,1,I think this textbook should have a rating of four and a best rating of 6,1.2472897,textbook,0.22637520730495453,6,0.14483332633972168,rating,0.11909830570220947
+5,OOD_Class_5,2,the current rating of 6 out of two for a textbook,1.2077811,textbook,0.3072476387023926,rating,0.2347295582294464,of,0.0836285874247551
+5,OOD_Class_5,3,I would rate this book a value of 3 and a best rating of 6,1.2039807,rate,0.12831173837184906,rating,0.08217655122280121,i,0.07274775207042694
+5,OOD_Class_5,4,rating points for Castles of Steel out of 6 are 5,1.1990132,points,0.38082003593444824,castles,0.3586536943912506,steel,0.2477501630783081
+5,OOD_Class_5,5,I would give this textbook a rating of 0 and a best rating of 6,1.1872685,textbook,0.15062832832336426,0,0.10273289680480957,would,0.09690071642398834
+6,OOD_Class_6,1,Find book The Music Lovers,1.0960381,find,0.24616023898124695,book,0.16063150763511658,lovers,0.09104974567890167
+6,OOD_Class_6,2,look for the creative work The Testament of Gideon Mack,1.0315444,creative,0.19196464121341705,for,0.11658210307359695,gideon,0.0877770483493805
+6,OOD_Class_6,3,Look for the creative work called White Sugar,1.0289755,look,0.21444490551948547,the,0.11619111895561218,work,0.06044992059469223
+6,OOD_Class_6,4,"I need Top Gear 2 , please search it for me.",0.9997555,search,0.1050126701593399,.,0.08062015473842621,i,0.028941428288817406
+6,OOD_Class_6,5,show 50 Words for Snow creative picture,0.9782801,50,0.3339961767196655,show,0.30753758549690247,for,0.274832546710968
+7,OOD_Class_7,1,Is The Belles of St. Clements playing at Star Theatres in 8 minutes ?,1.1406064,playing,0.6961026787757874,minutes,0.22797442972660065,star,0.15435925126075745
+7,OOD_Class_7,2,Is Warhead playing at AMC Theaters,1.0578836,is,0.6796589493751526,theaters,0.24602729082107544,war,0.07154399901628494
+7,OOD_Class_7,3,"What time is Careful, He Might Hear You playing at the cinema",1.016898,at,0.5276538133621216,time,0.33197808265686035,what,0.29270419478416443
+7,OOD_Class_7,4,Is A Tree Grows in Brooklyn playing in one hour,0.98512524,playing,0.18331316113471985,is,0.09827640652656555,brooklyn,0.07977575063705444
+7,OOD_Class_7,5,Can I get the movie schedules for Loews Cineplex in six hours seventeen minutes and eighteen seconds .,0.98353386,schedules,0.10968615114688873,the,0.0720120519399643,ne,0.06794054806232452

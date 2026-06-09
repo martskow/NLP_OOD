@@ -1,0 +1,36 @@
+fold,scenario,rank_in_fold,text,score,trigger_1_token,trigger_1_weight,trigger_2_token,trigger_2_weight,trigger_3_token,trigger_3_weight
+1,OOD_Class_1,1,add I’m Only a Man to my flow español,19.237979956675662,m,95.71367645263672,i,81.72288513183594,only,61.74284744262695
+1,OOD_Class_1,2,Add I Hate Myself and I Want to Die to my Six string peacefulness,18.9221385465953,die,65.2479248046875,add,62.134037017822266,six,54.37721252441406
+1,OOD_Class_1,3,add Paul Franklin to my The Bachelor Party,17.848941830461303,party,83.1419677734375,bachelor,45.86688995361328,my,44.45136260986328
+1,OOD_Class_1,4,add Deus Deceptor to Dance Workout,17.692272945608593,workout,71.42798614501953,ept,52.398780822753906,de,43.24980926513672
+1,OOD_Class_1,5,add sonntag to my Assassin's Creed,17.16317980971303,son,85.42013549804688,g,75.29544067382812,s,67.87108612060547
+2,OOD_Class_2,1,Book a pub that serves fries for 9 people.,22.430480300404742,pub,176.781494140625,serves,164.1094207763672,people,112.25410461425781
+2,OOD_Class_2,2,Book a churrascaria restaurant that serves chips for five people.,22.111286466702747,book,135.50047302246094,restaurant,130.85720825195312,.,105.0911636352539
+2,OOD_Class_2,3,Book a bar that serves ribs for 5 people.,21.874065572569968,serves,146.44097900390625,that,134.34060668945312,a,128.07827758789062
+2,OOD_Class_2,4,book a gastropub that serves turkish food for 4 people,21.835108450301195,serves,240.59042358398438,b,103.36691284179688,food,72.47972106933594
+2,OOD_Class_2,5,book me a restaurant that serves green bean casserole for five people,19.49988855291116,serves,229.94265747070312,restaurant,161.40341186523438,for,111.88733673095703
+3,OOD_Class_3,1,I'd like to watch Wish You Were Dead,9.894054242871693,watch,97.64100646972656,you,13.247049331665039,like,5.4548540115356445
+3,OOD_Class_3,2,Is there a snowstorm in the forecast for El Cenizo,8.905674677834517,storm,20.594919204711914,zo,14.722496032714844,forecast,13.340042114257812
+3,OOD_Class_3,3,I want to watch Wide-Eyed and Ignorant,8.677825204362636,eyed,25.733837127685547,ignorant,8.943072319030762,,0.0
+3,OOD_Class_3,4,is Saint Robert hotter than Turkmenistan,8.396048417323327,saint,28.653444290161133,is,15.836742401123047,turkmenistan,7.35385799407959
+3,OOD_Class_3,5,I want to go see The Trouble with Girls,8.214382257219253,girls,13.33321762084961,,0.0,,0.0
+4,OOD_Class_4,1,play 1988 chant music on Itunes,9.504747672007513,play,55.330413818359375,1988,15.753759384155273,on,8.859560012817383
+4,OOD_Class_4,2,play Hardcore music,9.128156719464387,music,49.22331237792969,play,41.48866271972656,,0.0
+4,OOD_Class_4,3,Play Progressive Metal .,9.042500710523777,.,58.61899185180664,play,25.01904296875,progressive,11.653231620788574
+4,OOD_Class_4,4,Play music using Last Fm,9.013377852232031,music,2.6890292167663574,,0.0,,0.0
+4,OOD_Class_4,5,Play Clásicos del Hip Hop Español,8.731171272173514,play,68.1361312866211,hop,58.31794357299805,ol,9.19262981414795
+5,OOD_Class_5,1,show me a textbook with a rating of 2 and a maximum rating of 6 that is current,13.978687527515097,textbook,53.27707290649414,current,32.25654220581055,6,22.024085998535156
+5,OOD_Class_5,2,Hocus Bogus gets a 2 of 6 .,12.751993944455714,gets,49.54901123046875,hoc,18.711593627929688,a,17.577659606933594
+5,OOD_Class_5,3,Rate The Saint in Trouble 1 of 6,12.457570995367137,6,81.80288696289062,the,73.8126220703125,1,70.70980834960938
+5,OOD_Class_5,4,rate What the Dog Saw a two,12.443347142234524,a,211.66104125976562,two,147.51803588867188,saw,19.233842849731445
+5,OOD_Class_5,5,I think that The Wizard is a four of 6 .,12.42074013001217,.,77.24339294433594,is,71.18215942382812,6,67.27274322509766
+6,OOD_Class_6,1,Wish to read the novel called The Wizard of Stone Mountain,34.730949698260616,read,601.6741333007812,novel,263.9153137207031,stone,232.6473388671875
+6,OOD_Class_6,2,"find Back for Good , a novel I want to read",31.57093916635316,good,326.51837158203125,read,313.997802734375,novel,246.95504760742188
+6,OOD_Class_6,3,I want to read the book Between a Rock and a Hard Place,31.43135965978646,read,551.4888305664062,book,412.37725830078125,place,221.49737548828125
+6,OOD_Class_6,4,I want to read the book Crash Landing,29.984601438827937,book,379.31219482421875,read,370.04547119140625,the,193.40672302246094
+6,OOD_Class_6,5,I need a novel about Polymer Chemistry .,28.195949385997515,novel,384.69036865234375,about,235.48228454589844,chemistry,127.69573211669922
+7,OOD_Class_7,1,What is the movie schedule at Cineplex Odeon Corporation 12 hours from now,20.963429217797643,schedule,175.23106384277344,is,139.11643981933594,movie,112.97532653808594
+7,OOD_Class_7,2,what movies are on the movie schedules for five hours from now in the neighbourhood,20.604293277672966,are,199.29086303710938,neighbourhood,171.69419860839844,schedules,111.55889892578125
+7,OOD_Class_7,3,Is the start time 151652 for movies in the neighborhood,20.309833075905033,is,287.82452392578125,movies,187.54263305664062,start,127.44287109375
+7,OOD_Class_7,4,What movies are starting at eight pm in the area,20.307284346773,movies,569.6150512695312,are,268.04022216796875,eight,144.9908447265625
+7,OOD_Class_7,5,Is this film going to be at Malco Theatres ?,20.140444204426075,is,291.44476318359375,at,284.38507080078125,be,109.93643188476562

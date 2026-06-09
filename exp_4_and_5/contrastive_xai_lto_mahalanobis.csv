@@ -1,0 +1,26 @@
+fold,scenario,rank_in_fold,text,score,trigger_1_token,trigger_1_weight,trigger_2_token,trigger_2_weight,trigger_3_token,trigger_3_weight
+1,Kino,1,when is Red Shirts showing at Dickinson Theatres,29.720400319946005,theatres,713.201416015625,shirts,490.1400146484375,red,185.04295349121094
+1,Kino,2,When is Youth Without Youth being shown at the nearest movie house ?,27.588613808452042,is,322.35479736328125,?,250.541748046875,being,207.25621032714844
+1,Kino,3,What is the nearest cinema showing Love in Mandya ?,27.390662602877264,cinema,219.35708618164062,nearest,132.98886108398438,what,122.86215209960938
+1,Kino,4,Is The Country Doctor on the schedule at any theater near me?,26.34110672981164,theater,608.4148559570312,doctor,497.4668273925781,at,334.67535400390625
+1,Kino,5,What movies are at Malco Theatres,26.340665660929066,what,403.61944580078125,at,252.1460418701172,co,118.45279693603516
+2,Muzyka,1,Add viktor merjanov to california rock state,24.551904703146963,state,293.12164306640625,to,104.47854614257812,add,103.8252182006836
+2,Muzyka,2,play a top twenty symphony of 2010,19.353098600017862,2010,236.685791015625,play,210.3463134765625,top,80.27091979980469
+2,Muzyka,3,Can ten green bottles be added to brooklyn beat ?,17.130767850521437,bottles,129.29220581054688,ten,101.6655502319336,?,60.25994110107422
+2,Muzyka,4,add Stephen McNally to Confidence Boost,14.301855767783852,boost,124.48234558105469,to,35.75244140625,confidence,31.830699920654297
+2,Muzyka,5,Show me when and where I can see Song of Summer,13.929507126972268,when,145.4803466796875,where,136.41233825683594,and,90.12762451171875
+3,Usługi,1,Is it chillier in Hong Kong than it is here,13.936722111386604,ier,34.23619842529297,hong,31.809280395507812,here,28.538557052612305
+3,Usługi,2,I want to reserve a gastropub that has a spa .,13.804522562509243,reserve,44.254417419433594,spa,23.458850860595703,want,23.23806381225586
+3,Usługi,3,Will it get foggy in Spring Hill ?,11.740849218729174,hill,28.650230407714844,it,27.456867218017578,spring,23.837867736816406
+3,Usługi,4,Is it better in Holi or here,11.608128058388868,li,37.82609939575195,in,27.85245704650879,it,14.823164939880371
+3,Usługi,5,Will it get chillier in Furano-Ashibetsu Prefectural Natural Park ?,11.095991212692212,tsu,27.713552474975586,prefect,19.35845947265625,ier,11.553461074829102
+4,Twórczość,1,give Life A Natural History of the First Four Billion Years of Life on Earth 1 points out of 6,28.580062259376017,6,62.062408447265625,out,57.24711608886719,history,43.85810852050781
+4,Twórczość,2,is there a Chinese Wikipedia,25.63151023133349,there,348.1842041015625,wikipedia,293.2066650390625,chinese,178.42115783691406
+4,Twórczość,3,Rate Of the Subcontract a 0,24.979841181074537,rate,332.4418029785156,sub,219.7694091796875,tra,115.36549377441406
+4,Twórczość,4,I want Sugarfoot,24.54851359048972,want,603.26611328125,sugar,465.96417236328125,,0.0
+4,Twórczość,5,I need a novel about Polymer Chemistry .,24.320445104613626,polymer,314.29949951171875,chemistry,267.805908203125,.,207.13584899902344
+5,Mieszany,1,"nancy, elma ruiz and molly want to eat at a restaurant in Gibraltar",14.22947831703967,restaurant,64.40324401855469,eat,46.09968185424805,gibraltar,37.349159240722656
+5,Mieszany,2,"Make me a reservation at Illinois Central Railroad Freight Depot in Singapore with vickie rodriguez, lila reyes and ruby",14.177802857192827,vicki,35.50593566894531,make,30.772607803344727,a,28.2072696685791
+5,Mieszany,3,"Would like a table right now for leonor mendoza, imogene and lisa sanchez",13.704909745693492,sanchez,39.1041145324707,table,36.82546615600586,right,21.410343170166016
+5,Mieszany,4,I'd like to watch Sherlock Holmes à New York at KB Theatres,13.491179804960218,theatres,106.2171859741211,kb,67.49102783203125,watch,15.478347778320312
+5,Mieszany,5,book me a restaurant that serves green bean casserole for five people,13.323407135168662,serves,45.857696533203125,people,33.22239303588867,me,26.49074935913086

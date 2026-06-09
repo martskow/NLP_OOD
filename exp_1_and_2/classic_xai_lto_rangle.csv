@@ -1,0 +1,26 @@
+fold,scenario,rank_in_fold,text,score,trigger_1_token,trigger_1_weight,trigger_2_token,trigger_2_weight,trigger_3_token,trigger_3_weight
+1,Kino,1,I'm looking for you to get me Jack of Shadows .,1.14016,get,0.20606982707977295,me,0.16362929344177246,you,0.10156891494989395
+1,Kino,2,What time is Class playing at Amco Entertainment ?,1.1371107,at,0.4998944401741028,?,0.28380337357521057,time,0.18444758653640747
+1,Kino,3,When is Twentynine Palms playing at Plitt Theatres ?,1.1127416,when,0.2276017963886261,palms,0.09198471158742905,pl,0.07339674979448318
+1,Kino,4,can i get the showtimes for films in the neighbourhood,1.1105018,showtime,0.3659079074859619,films,0.19389918446540833,s,0.09114885330200195
+1,Kino,5,Look for the trailer to Hickory Daily Record .,1.106386,record,0.27961915731430054,look,0.2548491954803467,hickory,0.15679365396499634
+2,Muzyka,1,Can ten green bottles be added to brooklyn beat ?,0.9537576,ten,0.3624383807182312,beat,0.18644244968891144,be,0.07468769699335098
+2,Muzyka,2,Put hampartsoum limondjian in running to rock 170 to 190 bpm,0.95286334,running,0.2429254949092865,jian,0.23440513014793396,put,0.2262807935476303
+2,Muzyka,3,Add Cake to Bake to lo que suena new york,0.9293117,cake,0.32593703269958496,ke,0.07183857262134552,add,0.033378906548023224
+2,Muzyka,4,this track should get added to Spain Top 50,0.8964486,top,0.14370736479759216,spain,0.11024591326713562,added,0.03906779736280441
+2,Muzyka,5,Put this album on totally alternative,0.86894083,album,0.1632724404335022,on,0.15877985954284668,totally,0.07330556958913803
+3,Usługi,1,Book a bar that serves italian-american cuisine neighboring Wilson Av for one person.,1.1874282,person,0.12967213988304138,neighboring,0.09991443902254105,serves,0.0802660584449768
+3,Usługi,2,I would like to book a bistro for 7,1.1170936,like,0.26675304770469666,book,0.2390580177307129,to,0.10982012748718262
+3,Usługi,3,book a table for 2 at a highly rated restaurant within walking distance of taverna OK,1.0983351,rated,0.3743758797645569,book,0.1779348999261856,a,0.07637138664722443
+3,Usługi,4,Is it supposed to be chillier in Favoretta,1.0955068,it,0.28748929500579834,to,0.26538312435150146,favor,0.21819883584976196
+3,Usługi,5,"I need a top-rated gastropub for 5 in DC in Conshohocken on Jul. the 18th, 2024",1.0924783,rated,0.2369053214788437,need,0.14845335483551025,5,0.07439124584197998
+4,Twórczość,1,The current essay is a three of 6,1.1882044,is,0.43065792322158813,the,0.22300028800964355,essay,0.2222648710012436
+4,Twórczość,2,"rate Dick Sand, A Captain at Fifteen a two out of 6",1.1786817,dick,0.26773032546043396,captain,0.14714328944683075,a,0.09159572422504425
+4,Twórczość,3,Give After Having Spent a Night Among Horses 0 out of 6 .,1.1552132,after,0.3325977325439453,spent,0.2113236039876938,6,0.16165336966514587
+4,Twórczość,4,give Life A Natural History of the First Four Billion Years of Life on Earth 1 points out of 6,1.1098709,give,0.5963908433914185,a,0.2682521641254425,out,0.1683591902256012
+4,Twórczość,5,show creativity in All Nudity Shall Be Punished,1.099199,creativity,1.349090337753296,be,0.18305039405822754,punished,0.14924664795398712
+5,Mieszany,1,book a restaurant for 4 by shawn's work close by,1.1368033,book,0.2848508954048157,for,0.17996543645858765,shawn,0.17563049495220184
+5,Mieszany,2,book a restaurant for 2 that has internet,1.1350493,that,0.1508503258228302,restaurant,0.12156505882740021,2,0.11410125344991684
+5,Mieszany,3,Make me a reservation at a bar for a party of 7 in indonesian,1.1315686,indonesian,0.254954993724823,reservation,0.21932309865951538,party,0.12033097445964813
+5,Mieszany,4,Please get seating at Bouchon in Tonga for jimmie and chasity howard,1.1302625,seating,0.30075395107269287,sity,0.23746788501739502,cha,0.20190665125846863
+5,Mieszany,5,I want to eat at a scandinavian restaurant that is highly rated in Bonita Texas,1.1277523,highly,0.124147430062294,rated,0.1241455227136612,restaurant,0.06725531816482544

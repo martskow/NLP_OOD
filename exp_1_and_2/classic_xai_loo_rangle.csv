@@ -1,0 +1,36 @@
+fold,scenario,rank_in_fold,text,score,trigger_1_token,trigger_1_weight,trigger_2_token,trigger_2_weight,trigger_3_token,trigger_3_weight
+1,OOD_Class_1,1,add chas chandler to my Aux Cord Privileges,1.0956404,privileges,0.5802216529846191,to,0.11949946731328964,s,0.09649062156677246
+1,OOD_Class_1,2,add Stephen McNally to Confidence Boost,1.0209973,stephen,0.15725106000900269,to,0.11603595316410065,nally,0.04295710474252701
+1,OOD_Class_1,3,add this artist to my 59th grammy awards,1.0203617,awards,0.5627485513687134,artist,0.316864013671875,to,0.08643102645874023
+1,OOD_Class_1,4,add nour mhanna to workday lounge,1.0006328,lounge,0.394832968711853,no,0.03537454083561897,na,0.02679327502846718
+1,OOD_Class_1,5,"Add sugarolly days to my list, your favorite slaughterhouse",0.98095816,slaughter,0.2907153367996216,favorite,0.2850666344165802,",",0.06493930518627167
+2,OOD_Class_2,1,book a restaurant faraway from Rwanda for two,1.1246455,book,0.2519567608833313,a,0.2118227779865265,two,0.18107876181602478
+2,OOD_Class_2,2,Please book a joint type restaurant room with spa facility to accommodate 8 members,1.0860243,with,0.1873181164264679,accommodate,0.15901033580303192,a,0.14437074959278107
+2,OOD_Class_2,3,Book a tavern in Colorado for two,1.0651379,book,0.49110734462738037,for,0.25955986976623535,colorado,0.11763443797826767
+2,OOD_Class_2,4,book a bar with mediterranean food for three people,1.0523453,bar,0.3518697917461395,with,0.19987520575523376,people,0.0894981175661087
+2,OOD_Class_2,5,I would like to book a frozen yogurt restaurant for one,1.0465438,one,0.14023125171661377,like,0.12861758470535278,to,0.09269885718822479
+3,OOD_Class_3,1,there is cloud in Genola South Sudan,1.069571,cloud,0.2135731428861618,gen,0.0598735474050045,in,0.024157648906111717
+3,OOD_Class_3,2,Forecast for 11 am in Nauru,1.0614892,am,0.16755172610282898,na,0.13927550613880157,uru,0.12632541358470917
+3,OOD_Class_3,3,Wuill it be cloudy in Dickson City Illinois,1.0612515,ill,0.2794007360935211,in,0.18737496435642242,cloudy,0.099574513733387
+3,OOD_Class_3,4,Is there a storm in the weather forecast for Baraga Oregon,1.0598793,forecast,0.26621031761169434,oregon,0.24079740047454834,for,0.12805131077766418
+3,OOD_Class_3,5,Is it warm faraway in Niger ?,1.0268989,warm,0.25533056259155273,is,0.12616026401519775,niger,0.06630963087081909
+4,OOD_Class_4,1,I Need rave Slacker to play,0.94525033,need,0.17707860469818115,to,0.13099981844425201,rave,0.11343524605035782
+4,OOD_Class_4,2,Let's hear good Mohammad Mamle on Vimeo .,0.92576617,let,0.168445885181427,on,0.14851635694503784,hear,0.14400948584079742
+4,OOD_Class_4,3,Play Dancing Through Life by Ronald Isley on spotify,0.89300805,play,0.33397799730300903,ify,0.26954561471939087,spot,0.1360657811164856
+4,OOD_Class_4,4,play robert fripp sound track on Pandora,0.89161694,robert,0.15843993425369263,play,0.091541588306427,on,0.06977783143520355
+4,OOD_Class_4,5,Play some chant music by Kevin Jonas on deezer .,0.88796747,play,0.3121272325515747,dee,0.012552626430988312,some,0.011035177856683731
+5,OOD_Class_5,1,Rate The Desert Column 3 out of 6,1.1356525,3,0.1707817018032074,desert,0.16377976536750793,6,0.12541592121124268
+5,OOD_Class_5,2,Rate To Live and Die in L.A. a four out of 6 .,1.1157742,of,0.12511205673217773,four,0.09771779179573059,6,0.0870378315448761
+5,OOD_Class_5,3,Taken at the Flood only gets 2 points out of 6 .,1.1136726,points,0.4874560534954071,6,0.1935136616230011,gets,0.1638554483652115
+5,OOD_Class_5,4,Rate The Night Land three out of 6,1.1075454,night,0.27055948972702026,three,0.0872386246919632,6,0.07404135167598724
+5,OOD_Class_5,5,give 0 rating to She and Allan book,1.096029,book,0.2749655246734619,give,0.09743301570415497,0,0.05083402618765831
+6,OOD_Class_6,1,I want to find a book called Cash-Cash,1.1307402,a,0.20998123288154602,find,0.14547377824783325,book,0.13712935149669647
+6,OOD_Class_6,2,show creativity of Official History of Australia in the War of 1914–1918,1.11335,war,0.13823924958705902,1914,0.11643975973129272,1918,0.1085653007030487
+6,OOD_Class_6,3,Look for All That Matters,1.1060513,look,0.5795262455940247,that,0.1597379893064499,for,0.03420613706111908
+6,OOD_Class_6,4,show creative photograph named None of the Above,1.0708723,above,0.25722038745880127,none,0.18287158012390137,photograph,0.13183267414569855
+6,OOD_Class_6,5,Show me the book F-1 Grand Prix Part II,1.0605407,f,0.26019537448883057,ii,0.23697134852409363,show,0.16171053051948547
+7,OOD_Class_7,1,What time does A King in New York play in Malco Theatres,1.1785922,play,0.8441837430000305,theatres,0.5489055514335632,king,0.34866198897361755
+7,OOD_Class_7,2,When is Up the Yangtze playing at Goodrich Quality Theaters,1.0637603,playing,0.5564055442810059,is,0.15611225366592407,up,0.11842156946659088
+7,OOD_Class_7,3,Is Arthur 2 – On the Rocks playing at 2044 ?,1.0323347,204,0.28086650371551514,arthur,0.24959805607795715,4,0.15812014043331146
+7,OOD_Class_7,4,i want to see some movies in a B&B Theatres,1.0295757,see,0.14854107797145844,movies,0.14499317109584808,some,0.1281510442495346
+7,OOD_Class_7,5,What movie times are at Bow Tie Cinemas ?,1.0206816,movie,0.274203360080719,tie,0.23528727889060974,times,0.10710209608078003

@@ -1,0 +1,26 @@
+fold,scenario,rank_in_fold,text,score,trigger_1_token,trigger_1_weight,trigger_2_token,trigger_2_weight,trigger_3_token,trigger_3_weight
+1,Kino,1,What is the cheapest price I can pay for the DVD called The Darkest Cloud ?,13.240294528563783,darkest,97.5272216796875,dvd,84.68951416015625,cloud,26.11914825439453
+1,Kino,2,Please get me The Very Best of Chicago Only the Beginning .,12.004805170464378,me,87.38976287841797,please,65.8595962524414,the,22.407800674438477
+1,Kino,3,"Where do i purchase the book , Baby-Sittor ?",11.856546059066236,purchase,200.11264038085938,book,31.355730056762695,baby,27.2593994140625
+1,Kino,4,Find the Ghostly Swim 2 book,11.418807614384415,ghostly,223.10086059570312,find,170.84512329101562,,0.0
+1,Kino,5,Find Manual of Love 2 .,11.218761917528909,manual,95.57032012939453,2,10.604107856750488,,0.0
+2,Muzyka,1,I want to see Far Cry Vengeance,10.409421784242424,see,59.78285217285156,cry,17.92965316772461,vengeance,14.732294082641602
+2,Muzyka,2,I want watch The Sun And The Moon,9.483474968856463,sun,62.01270294189453,want,41.86316680908203,the,35.175411224365234
+2,Muzyka,3,Add Raisins secs et amandes to this is new edition,9.180756505749967,edition,32.644229888916016,this,15.728199005126953,new,11.684487342834473
+2,Muzyka,4,i want to watch Mister Cool,8.79615843625704,mister,112.11189270019531,watch,58.13546371459961,cool,33.31585693359375
+2,Muzyka,5,I want to watch Strange Brother,7.970630915706737,watch,57.12004089355469,i,9.82795524597168,want,7.826287746429443
+3,Usługi,1,party of four somewhere in SD,8.501445203025419,of,83.06212615966797,somewhere,45.06111526489258,in,9.990423202514648
+3,Usługi,2,I'd like to book a table at a restaurant for a group of 4,8.143701552336974,book,62.839298248291016,4,30.626585006713867,for,9.596303939819336
+3,Usługi,3,Find me Shack Out on 101,8.09901224048297,find,49.03978729248047,shack,35.689064025878906,,0.0
+3,Usługi,4,I want to know the temperate from January the twentieth in Brazil,8.075996744823875,temperate,25.2575740814209,twentieth,17.800220489501953,i,12.878453254699707
+3,Usługi,5,table for two on Nov. fifteenth,8.049365496753996,fifteenth,13.902101516723633,table,13.286309242248535,two,3.1410586833953857
+4,Twórczość,1,Where can I purchase a copy of the photograph on the front page of today's Jacksonville Daily Progress ?,17.51717371966362,photograph,148.72601318359375,where,139.78826904296875,purchase,68.57969665527344
+4,Twórczość,2,Can you please get me the book Dracula 5 The Blood Legacy ?,15.001245128500786,the,67.55966186523438,you,62.869205474853516,dracula,38.8155517578125
+4,Twórczość,3,Can you get me the Maldeamores saga ?,14.739189302524556,you,65.70866394042969,?,38.25244140625,amo,27.090824127197266
+4,Twórczość,4,The Cool World gets 4 points,14.314555889866712,points,79.52052307128906,gets,69.3143539428711,cool,26.837600708007812
+4,Twórczość,5,Get me a Johnny Cool photograph,13.915361574862615,me,85.13035583496094,photograph,68.70166015625,get,67.0965576171875
+5,Mieszany,1,book trentino serving bar for 4,17.19746731568947,bar,178.42132568359375,serving,109.39387512207031,book,44.79566955566406
+5,Mieszany,2,Book me a reservation for a bar that serves lobster roll in OR,16.682992085230975,me,81.55545043945312,reservation,66.72929382324219,that,37.67775344848633
+5,Mieszany,3,"I would like to book a table at a delicatessen in punjabi for me, angela and vilma",16.32658045260039,angela,115.69033813476562,delicate,42.60804748535156,",",31.691226959228516
+5,Mieszany,4,I want seating for five near the pool at the pub,16.094602694656945,seating,169.44979858398438,pub,27.648189544677734,the,27.008411407470703
+5,Mieszany,5,Book me a pizzeria that serves oreo for eight,15.681098426506942,eria,46.455833435058594,serves,42.561492919921875,that,40.716217041015625

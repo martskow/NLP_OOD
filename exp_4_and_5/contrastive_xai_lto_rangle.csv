@@ -1,0 +1,26 @@
+fold,scenario,rank_in_fold,text,score,trigger_1_token,trigger_1_weight,trigger_2_token,trigger_2_weight,trigger_3_token,trigger_3_weight
+1,Kino,1,Can i get the showtimes for Man in Blues ?,1.1194162,in,0.35876381397247314,for,0.2978651523590088,the,0.2949267029762268
+1,Kino,2,show the creativity of Where What When,1.0983057,creativity,0.7000738382339478,what,0.045955393463373184,of,0.004710344132035971
+1,Kino,3,looking for Liberalism and the Limits of Justice,1.087631,liberalism,0.30506932735443115,justice,0.235519677400589,looking,0.17239941656589508
+1,Kino,4,find a photograph called Wild Cats on the Beach,1.0870187,photograph,0.42627373337745667,on,0.3381009101867676,beach,0.3043476343154907
+1,Kino,5,Find time for Ace of the Saddle,1.0806397,ace,0.26213064789772034,of,0.22765135765075684,saddle,0.16941820085048676
+2,Muzyka,1,add chas chandler to my Aux Cord Privileges,0.86594397,privileges,0.33758923411369324,my,0.07141125947237015,to,0.0637551099061966
+2,Muzyka,2,I want to add un jour dans notre vie to my list running to rock 170 to 190 bpm,0.8657119,running,0.3472386598587036,list,0.17637541890144348,to,0.16880661249160767
+2,Muzyka,3,this track should get added to Spain Top 50,0.8625365,top,0.23280884325504303,50,0.13400810956954956,spain,0.059712618589401245
+2,Muzyka,4,add Stephen McNally to Confidence Boost,0.85567504,nally,0.13100120425224304,boost,0.08371999114751816,stephen,0.08341189473867416
+2,Muzyka,5,I want global top 50 to have marit bergman added to it.,0.8218401,bergman,0.06413603574037552,top,0.0550759956240654,global,0.053024034947156906
+3,Usługi,1,I need to book a pub for 8 that has wifi,1.0157794,8,0.21084554493427277,i,0.19171589612960815,book,0.0839662253856659
+3,Usługi,2,book a highly rated restaurant in Central African Republic for 5 people on sep. the second,0.9948997,rated,1.1584172248840332,5,0.5278084874153137,on,0.3508380651473999
+3,Usługi,3,I would like to book the best food court with persian food within the same area as OK for my ex husband and I,0.98400855,area,0.4281359314918518,within,0.304734468460083,with,0.22273555397987366
+3,Usługi,4,"I would like reservations made for Masonville , Vermont nov. 7",0.9822888,nov,0.13392432034015656,reservations,0.05632396414875984,mason,0.04295813664793968
+3,Usługi,5,Book me a bar that's highly rated for georgia and I in Burkina,0.93188107,rated,0.42823994159698486,book,0.10638180375099182,for,0.045475151389837265
+4,Twórczość,1,Rate Maps for Lost Lovers 1 of 6,1.1642054,lovers,0.2230629026889801,1,0.1582847237586975,rate,0.08082714676856995
+4,Twórczość,2,Rate Voyages by Starlight a value of 0,1.152575,voyages,0.3558385372161865,of,0.216082364320755,by,0.075375996530056
+4,Twórczość,3,Big Breasts and Wide Hips is terrible and 1 out of 6,1.130838,breasts,0.35586225986480713,hips,0.18733662366867065,wide,0.075493223965168
+4,Twórczość,4,"Can I rate the book My Life in France not one , but 6 stars ?",1.1119449,book,0.44205743074417114,rate,0.22631758451461792,the,0.16673117876052856
+4,Twórczość,5,rate How to Eat Fried Worms two stars,1.0963649,eat,0.3141542673110962,rate,0.2749536335468292,worms,0.1836075484752655
+5,Mieszany,1,I need a table at The Apple Pan for reva and bernadine,1.2545825,table,0.26725560426712036,apple,0.1500253677368164,a,0.1312517523765564
+5,Mieszany,2,Book a restaurant that serves capicollo in Kit Carson with ilene and aisha .,1.185937,serves,0.22355516254901886,a,0.17216503620147705,with,0.1519903540611267
+5,Mieszany,3,Set me up with a table at a bar with salade for 5,1.1563232,set,0.1884579360485077,5,0.08168608695268631,me,0.07249979674816132
+5,Mieszany,4,I need a table for 5 at a brasserie that has a reuben sandwich,1.1526253,reuben,0.31387391686439514,table,0.2723913788795471,at,0.1740250438451767
+5,Mieszany,5,Book a reservation for a gastropub serving liver and onions,1.1304275,book,0.313819020986557,reservation,0.20469260215759277,for,0.06313002854585648

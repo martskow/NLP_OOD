@@ -1,0 +1,36 @@
+fold,scenario,rank_in_fold,text,ood_score,trigger_1_token,trigger_1_weight,trigger_2_token,trigger_2_weight,trigger_3_token,trigger_3_weight
+1,OOD_Class_0,1,Add fuzzy logic to latin dinner,0.014837829,dinner,0.7337489128112793,add,0.1959601491689682,fuzzy,0.1196206733584404
+1,OOD_Class_0,2,add doing all right to string theory,0.010482636,add,0.05421760305762291,doing,0.0018188402755185962,,0.0
+1,OOD_Class_0,3,add I’m Only a Man to my flow español,0.0104040215,add,0.2569228410720825,a,0.07934048771858215,es,0.04755718261003494
+1,OOD_Class_0,4,Add od mene se odvikavaj to my laundry,0.009222667,add,0.5561464428901672,laundry,0.02779952809214592,,0.0
+1,OOD_Class_0,5,for my té para tres list add cut the world,0.008589275,for,0.389192670583725,te,0.1431329995393753,my,0.03597252070903778
+2,OOD_Class_1,1,I need a restaurant that has internet access for a party of six,0.524508,restaurant,0.9378705620765686,that,0.1635335385799408,six,0.14555712044239044
+2,OOD_Class_1,2,"Please book a coffeehouse restaurant type room to accommodate gretchen, trisha and amber which serves pastelaria dish",0.3117927,restaurant,0.5535955429077148,room,0.43342483043670654,",",0.30758383870124817
+2,OOD_Class_1,3,"Please book a coffeehouse restaurant type room to accommodate gretchen, trisha and amber which serves pastelaria dish",0.3117927,restaurant,0.5535955429077148,room,0.43342483043670654,",",0.30758383870124817
+2,OOD_Class_1,4,I need to book a restaurant that has wifi far from TX for me and my parents,0.31091288,restaurant,0.8343214392662048,wi,0.24348779022693634,that,0.1996990442276001
+2,OOD_Class_1,5,Please book a joint type restaurant room with spa facility to accommodate 8 members,0.28465497,accommodate,0.79526686668396,spa,0.40959593653678894,please,0.3234774172306061
+3,OOD_Class_2,1,What is the cloud coverage in my current place,0.9705377,cloud,0.8487429618835449,current,0.37708956003189087,the,0.2504303455352783
+3,OOD_Class_2,2,What is the forecasted humidity in Ghana for Epiphany,0.9552999,humidity,0.8631919026374817,what,0.3835870325565338,the,0.2625211775302887
+3,OOD_Class_2,3,Tell me the current forecast for Switzerland,0.95492125,current,0.5864048004150391,the,0.5418490171432495,forecast,0.42605018615722656
+3,OOD_Class_2,4,what is the forecast for the current position,0.95031327,forecast,0.743839681148529,the,0.45236286520957947,position,0.2533513903617859
+3,OOD_Class_2,5,what is the forecast for colder conditions within the same area of this current place,0.94845563,the,0.641842782497406,this,0.45079001784324646,for,0.3535449504852295
+4,OOD_Class_3,1,Find Business Ethics A European Review .,0.0173155,ethics,0.6974809765815735,.,0.2601744830608368,business,0.05472835898399353
+4,OOD_Class_3,2,"Play me Gil Parris 's A Cup Of Coffee, A Sandwich And You",0.0039316034,sandwich,0.18131747841835022,par,0.1457500457763672,coffee,0.1227283701300621
+4,OOD_Class_3,3,Play Short Walk On A Long Pier on Slacker,0.0027493853,play,0.4142787456512451,,0.0,,0.0
+4,OOD_Class_3,4,I need some Hardcore Hip Hop,0.0026193832,hardcore,0.2846505343914032,hop,0.24186165630817413,i,0.1502905637025833
+4,OOD_Class_3,5,Play slow rock music on Vimeo,0.002327765,vi,0.24501967430114746,on,0.08875339478254318,,0.0
+5,OOD_Class_4,1,Give Physics of the Impossible four points .,0.9845276,give,0.7937990427017212,physics,0.4725326597690582,.,0.2535906434059143
+5,OOD_Class_4,2,I give The Logic of Sense a zero,0.97251976,logic,0.5715009570121765,zero,0.5632436275482178,a,0.3971434235572815
+5,OOD_Class_4,3,I rate The Variation of Animals and Plants under Domestication a value of 0,0.97053605,the,0.554108202457428,animals,0.44562092423439026,under,0.38508176803588867
+5,OOD_Class_4,4,Rate Renewable Electricity and the Grid one stars out of 6,0.96862286,rate,0.6131747961044312,electricity,0.5088042616844177,renewable,0.38916176557540894
+5,OOD_Class_4,5,For Adaptive Coloration in Animals I give 4 points,0.9535465,in,0.74378901720047,animals,0.393471360206604,for,0.3648250997066498
+6,OOD_Class_5,1,I need a novel about Polymer Chemistry .,0.9943427,about,0.7196624279022217,chemistry,0.3454884886741638,.,0.33707576990127563
+6,OOD_Class_5,2,Need the creative work called The Logic of Scientific Discovery,0.9864824,called,0.7928838133811951,the,0.3807108700275421,logic,0.27211296558380127
+6,OOD_Class_5,3,Info on show Natural Language and Linguistic Theory,0.9764564,info,0.650242269039154,theory,0.44585636258125305,linguistic,0.3541688621044159
+6,OOD_Class_5,4,looking for Liberalism and the Limits of Justice,0.9469112,looking,0.551485538482666,the,0.36668211221694946,for,0.33904698491096497
+6,OOD_Class_5,5,What is the TV show Journal of Personality and Social Psychology ?,0.8938969,of,0.5975090861320496,tv,0.5608866214752197,journal,0.44295185804367065
+7,OOD_Class_6,1,What are the timings for Starship Troopers 2 ?,0.929424,?,0.7876502871513367,stars,0.44394198060035706,troopers,0.21886146068572998
+7,OOD_Class_6,2,What time will The Age of Success be showing?,0.3647302,time,0.7293957471847534,?,0.43864673376083374,be,0.30080172419548035
+7,OOD_Class_6,3,What time is A Battle of Wits starting?,0.358031,?,0.5035016536712646,of,0.4053105115890503,time,0.3629100024700165
+7,OOD_Class_6,4,What are the current movie schedules ?,0.1208263,what,0.6459072828292847,schedules,0.6343361735343933,current,0.07890750467777252
+7,OOD_Class_6,5,What are the movie schedules for movies around here ?,0.09125632,schedules,0.7046796083450317,here,0.32879403233528137,?,0.29008132219314575
